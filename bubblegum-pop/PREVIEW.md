@@ -9,7 +9,8 @@ Near-white blush pages with white cards and one very loud pink doing all the wor
 ## Preview
 
 ### 1. Dashboard
-<img width="1232" height="808" alt="image" src="https://github.com/user-attachments/assets/923d7328-151b-46b9-aa4d-79a3fea03f1d" />
+<img width="1226" height="758" alt="image" src="https://github.com/user-attachments/assets/be53d19e-12ca-4d0c-b326-657d869a637d" />
+
 
 
 
