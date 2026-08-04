@@ -9,25 +9,31 @@ Creamy warm-white surfaces with a vivid tangerine primary and a softer orange ac
 ## Preview
 
 ### 1. Dashboard
-<img width="1872" height="872" alt="image" src="https://github.com/user-attachments/assets/7212dd2f-9e9b-4c3e-af51-6a0bc21eb9b1" />
+<img width="1532" height="790" alt="image" src="https://github.com/user-attachments/assets/b3459cf1-92df-4bde-8e59-83c223b55039" />
+
 
 ### 2. Explore
-<img width="1882" height="887" alt="image" src="https://github.com/user-attachments/assets/d88fb91a-a9b4-4849-8557-cf67b14cc1c3" />
+<img width="1537" height="812" alt="image" src="https://github.com/user-attachments/assets/7c65ceec-4d3b-448e-be6e-1d8cd3b56bce" />
+
 
 ### 3. Modules
-<img width="1907" height="832" alt="image" src="https://github.com/user-attachments/assets/b2b9d90d-4775-4ea9-bb27-a6e9f8c8af42" />
+<img width="1527" height="747" alt="image" src="https://github.com/user-attachments/assets/2155f22c-4153-4ce2-8bba-d085b01f936c" />
+
 
 ### 4. Papers
-<img width="1900" height="881" alt="image" src="https://github.com/user-attachments/assets/5e60446d-1137-47a0-bc9e-803f599e7aec" />
+<img width="1552" height="837" alt="image" src="https://github.com/user-attachments/assets/7e6cb65a-7ea8-4b80-aa9b-57d120ae8793" />
+
 
 ### 5. Paper Sample
-<img width="1916" height="940" alt="image" src="https://github.com/user-attachments/assets/06c24862-bfdb-4f04-9070-5c7769d6e6de" />
+<img width="1550" height="807" alt="image" src="https://github.com/user-attachments/assets/31202962-32e6-4386-ab92-59e4d4b526d1" />
 
 ### 6. Notes
-<img width="1912" height="882" alt="image" src="https://github.com/user-attachments/assets/84821d20-75c4-4460-af48-53bfa81c5339" />
+
+<img width="1547" height="796" alt="image" src="https://github.com/user-attachments/assets/0361576d-ce96-4b29-b3da-218b7981a43e" />
 
 ### 7. Videos
-<img width="1910" height="882" alt="image" src="https://github.com/user-attachments/assets/828ba3c9-0553-4785-bdfa-e070ddbae3a0" />
+<img width="1550" height="797" alt="image" src="https://github.com/user-attachments/assets/217c1b1a-65e3-4428-bad3-5583b29a1f32" />
+
 
 ## Palette
 
