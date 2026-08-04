@@ -10,17 +10,39 @@ Warm off-white pages with a watermelon-red primary and a mint-green accent, so t
 
 ### 1. Dashboard
 
+<img width="1642" height="808" alt="image" src="https://github.com/user-attachments/assets/aa274571-717f-4b05-aae2-95217785bb88" />
+
+
 ### 2. Explore
+
+<img width="1628" height="794" alt="image" src="https://github.com/user-attachments/assets/ec00f0c9-0371-4f1f-8b3d-6db7eae20032" />
+
 
 ### 3. Modules
 
+<img width="1357" height="803" alt="image" src="https://github.com/user-attachments/assets/b2ec15bc-d2d0-4952-a4c1-c1072ed8ebe5" />
+
+
 ### 4. Papers
+
+<img width="1631" height="796" alt="image" src="https://github.com/user-attachments/assets/981c406d-4eb7-43c0-8892-abe0def73f9e" />
+
 
 ### 5. Paper Sample
 
+<img width="1582" height="823" alt="image" src="https://github.com/user-attachments/assets/4ce148dd-8579-4109-9e78-5c52934ea821" />
+
+
 ### 6. Notes
 
+<img width="1618" height="826" alt="image" src="https://github.com/user-attachments/assets/f3cef37c-8bea-47fe-90cd-853417a4104d" />
+
 ### 7. Videos
+
+<img width="1476" height="833" alt="image" src="https://github.com/user-attachments/assets/cba01585-85ad-46d9-b112-50c400d8c9d4" />
+
+
+
 
 ## Palette
 
