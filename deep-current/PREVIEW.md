@@ -9,18 +9,32 @@ Near-black teal at the bottom, deep sea-green surfaces above it, and one cyan th
 ## Preview
 
 ### 1. Dashboard
+<img width="803" height="356" alt="image" src="https://github.com/user-attachments/assets/080f7423-3e62-4966-b2a8-e098e79ea571" />
+
 
 ### 2. Explore
+<img width="797" height="391" alt="image" src="https://github.com/user-attachments/assets/8d0c77a1-5175-4273-9fa4-c6ee5d68ee2d" />
+
 
 ### 3. Modules
+<img width="803" height="363" alt="image" src="https://github.com/user-attachments/assets/a10d8744-5a0e-431f-ab3f-7d3f825ec095" />
+
 
 ### 4. Papers
+<img width="801" height="374" alt="image" src="https://github.com/user-attachments/assets/3dbb038d-6598-434a-b230-75978fc44dd0" />
+
 
 ### 5. Paper Sample
+<img width="800" height="365" alt="image" src="https://github.com/user-attachments/assets/12a6b1a0-f8e1-40d9-8de3-6d6a06778cfe" />
+
 
 ### 6. Notes
+<img width="802" height="374" alt="image" src="https://github.com/user-attachments/assets/2d15d9a4-9c33-4f61-aebd-76a7d162193f" />
+
 
 ### 7. Videos
+![Uploading image.png…]()
+
 
 ## Palette
 
