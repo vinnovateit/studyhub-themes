@@ -9,18 +9,25 @@ Icy near-white surfaces with a brilliant sky-blue primary and a lighter cyan acc
 ## Preview
 
 ### 1. Dashboard
+<img width="1902" height="880" alt="image" src="https://github.com/user-attachments/assets/50c9b330-42d1-4e3e-adc2-27494f40550c" />
 
 ### 2. Explore
+<img width="1917" height="890" alt="image" src="https://github.com/user-attachments/assets/e574d45d-1da8-404b-b704-a0e1f0406174" />
 
 ### 3. Modules
+<img width="1907" height="887" alt="image" src="https://github.com/user-attachments/assets/445e2378-d45f-40a8-aff1-a80cd0f25778" />
 
 ### 4. Papers
+<img width="1912" height="882" alt="image" src="https://github.com/user-attachments/assets/e0cde451-38e6-42ec-9cf9-f699e6f80b98" />
 
 ### 5. Paper Sample
+<img width="1917" height="890" alt="image" src="https://github.com/user-attachments/assets/f06006f6-9138-442d-934e-3873dad74d1b" />
 
 ### 6. Notes
+<img width="1907" height="886" alt="image" src="https://github.com/user-attachments/assets/f6a7a14c-9855-4b72-8470-221865e97f9b" />
 
 ### 7. Videos
+<img width="1900" height="887" alt="image" src="https://github.com/user-attachments/assets/16d6f15e-ada0-4a1a-ac70-efc33139fc6d" />
 
 ## Palette
 
