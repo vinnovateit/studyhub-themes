@@ -9,18 +9,32 @@ A saturated light theme — the page itself is pool-blue rather than white, with
 ## Preview
 
 ### 1. Dashboard
+<img width="1235" height="745" alt="image" src="https://github.com/user-attachments/assets/8d3ea93d-8f18-4986-8d92-1789564a8adc" />
+
 
 ### 2. Explore
+<img width="1236" height="800" alt="image" src="https://github.com/user-attachments/assets/3126219b-e445-416c-ae43-8cdf6360c000" />
+
 
 ### 3. Modules
+<img width="1235" height="800" alt="image" src="https://github.com/user-attachments/assets/ac094653-e07d-4b20-948d-76c07eb383b1" />
+
 
 ### 4. Papers
+<img width="1236" height="790" alt="image" src="https://github.com/user-attachments/assets/08bbd25b-4764-40ac-8e1a-4bbb5a9a32db" />
+
 
 ### 5. Paper Sample
+<img width="1239" height="806" alt="image" src="https://github.com/user-attachments/assets/f10a3793-3dcb-44f4-9242-71bdfc93371e" />
+
 
 ### 6. Notes
+<img width="1241" height="792" alt="image" src="https://github.com/user-attachments/assets/f770a9f4-d943-41b0-aa88-03aa80dec4a3" />
+
 
 ### 7. Videos
+<img width="1241" height="795" alt="image" src="https://github.com/user-attachments/assets/d71e1d4f-62bd-469b-a7bc-17cfafdbdf7f" />
+
 
 ## Palette
 
