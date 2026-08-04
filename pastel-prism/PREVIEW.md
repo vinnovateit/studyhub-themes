@@ -10,32 +10,37 @@ Candy pastels on lilac-white: a soft violet primary, bubblegum-pink accent, and 
 
 ### 1. Dashboard
 
-<img width="1915" height="900" alt="image" src="https://github.com/user-attachments/assets/cdacdf0c-aa63-44ea-8129-471de2856daf" />
+<img width="1542" height="802" alt="image" src="https://github.com/user-attachments/assets/5c026b37-3e62-4adc-a5c4-a9620c17bedc" />
+
 
 ### 2. Explore
+<img width="1542" height="765" alt="image" src="https://github.com/user-attachments/assets/e62044b2-d778-425b-b54c-823c12a28c17" />
 
-<img width="1917" height="905" alt="image" src="https://github.com/user-attachments/assets/d71803e9-76a4-4b76-81e4-1f78e8e48ec2" />
 
 
 ### 3. Modules
 
-<img width="1906" height="842" alt="image" src="https://github.com/user-attachments/assets/fe026824-1ccb-4df6-a685-8c0991ea4776" />
+<img width="1546" height="847" alt="image" src="https://github.com/user-attachments/assets/4df4063d-7884-4619-9534-66e6f60f4e75" />
+
 
 ### 4. Papers
 
-<img width="1917" height="892" alt="image" src="https://github.com/user-attachments/assets/efcc3f36-e0ab-47dc-8642-e97f62a0ccec" />
+<img width="1542" height="812" alt="image" src="https://github.com/user-attachments/assets/126b00eb-de1b-406c-9f8d-a0911c493243" />
+
 
 ### 5. Paper Sample
+<img width="1547" height="807" alt="image" src="https://github.com/user-attachments/assets/bdb1e7ea-7858-4b2d-a30e-4fae720cba9a" />
 
-<img width="1917" height="896" alt="image" src="https://github.com/user-attachments/assets/8fa42dbc-69db-4fc1-80b6-3cde3db24e94" />
+
 
 ### 6. Notes
+<img width="1547" height="822" alt="image" src="https://github.com/user-attachments/assets/97470725-3141-4f54-8e06-b0463f045791" />
 
-<img width="1917" height="905" alt="image" src="https://github.com/user-attachments/assets/f31ef9a1-d03f-4893-9889-699fc5005b46" />
+
 
 ### 7. Videos
+<img width="1537" height="825" alt="image" src="https://github.com/user-attachments/assets/edcd764e-1fed-4ae7-bf23-0fdcc36562e5" />
 
-<img width="1915" height="865" alt="image" src="https://github.com/user-attachments/assets/bd8cd6df-efc8-4d09-b5ff-d6f6c086847a" />
 
 ## Palette
 
