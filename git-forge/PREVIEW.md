@@ -9,18 +9,33 @@ A restrained developer workspace: graphite surfaces, diff-green primary, commit-
 ## Preview
 
 ### 1. Dashboard
+<img width="794" height="376" alt="image" src="https://github.com/user-attachments/assets/40b3e68c-51bf-40a2-9bd2-5255367535d4" />
+
 
 ### 2. Explore
+<img width="776" height="373" alt="image" src="https://github.com/user-attachments/assets/f45722d1-dc48-4336-a41d-54e3ed1f8c3c" />
+
 
 ### 3. Modules
+<img width="775" height="367" alt="image" src="https://github.com/user-attachments/assets/cc8962af-fb25-4324-bcb5-4afa76bb7495" />
+
 
 ### 4. Papers
+<img width="783" height="370" alt="image" src="https://github.com/user-attachments/assets/9106f856-9967-4a42-b000-98e314d02d16" />
+
 
 ### 5. Paper Sample
+<img width="779" height="375" alt="image" src="https://github.com/user-attachments/assets/63ab7c38-682a-447b-9669-ccbd1445b6b3" />
+
+
 
 ### 6. Notes
+<img width="776" height="371" alt="image" src="https://github.com/user-attachments/assets/a0f97f74-cb18-42bd-a2e6-f522e5afbaf7" />
+
 
 ### 7. Videos
+<img width="774" height="364" alt="image" src="https://github.com/user-attachments/assets/6332e0a9-b011-433b-8d12-35bd94c9785e" />
+
 
 ## Palette
 
