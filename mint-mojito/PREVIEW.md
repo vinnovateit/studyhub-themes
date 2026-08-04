@@ -10,17 +10,31 @@ A fully-tinted light theme in fresh mint, with emerald interactive colour and de
 
 ### 1. Dashboard
 
+<img width="1917" height="882" alt="image" src="https://github.com/user-attachments/assets/ab770a76-31ba-4daa-b2b7-3c7a06d02c93" />
+
 ### 2. Explore
+
+<img width="1907" height="911" alt="image" src="https://github.com/user-attachments/assets/72b6d1cc-0687-47d3-b946-65c531fc969e" />
 
 ### 3. Modules
 
+<img width="1910" height="922" alt="image" src="https://github.com/user-attachments/assets/795dbda1-5d4d-4cd5-b304-8a8f7d10e555" />
+
 ### 4. Papers
+
+<img width="1907" height="917" alt="image" src="https://github.com/user-attachments/assets/41b0900b-371a-42ef-b0dd-2523899ef299" />
 
 ### 5. Paper Sample
 
+<img width="1917" height="961" alt="image" src="https://github.com/user-attachments/assets/8826a4f0-531a-470d-8e8d-10491ac66b6c" />
+
 ### 6. Notes
 
+<img width="1917" height="860" alt="image" src="https://github.com/user-attachments/assets/f9b6ebac-7f11-4451-8e48-c6bc3ee31bf6" />
+
 ### 7. Videos
+
+<img width="1917" height="877" alt="image" src="https://github.com/user-attachments/assets/e6f2b329-79fd-4517-886a-b89e2751d722" />
 
 ## Palette
 
