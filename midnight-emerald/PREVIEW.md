@@ -13,15 +13,24 @@ Deep green-black surfaces with a jewel-toned emerald primary and a mint accent t
 
 
 ### 2. Explore
+<img width="779" height="367" alt="image" src="https://github.com/user-attachments/assets/ac6d3250-8264-41cd-a00a-d40aef120100" />
 
 
 ### 3. Modules
 
+
+
 ### 4. Papers
+<img width="785" height="410" alt="image" src="https://github.com/user-attachments/assets/9f8e4e14-4666-4892-890a-71bea5afe6a5" />
+
 
 ### 5. Paper Sample
+<img width="788" height="376" alt="image" src="https://github.com/user-attachments/assets/fbe6cd68-c6a9-42ad-ab70-ed6f401dc4dc" />
+
 
 ### 6. Notes
+<img width="779" height="406" alt="image" src="https://github.com/user-attachments/assets/a539178d-9b7c-4f89-a1ef-7812275da740" />
+
 
 ### 7. Videos
 
