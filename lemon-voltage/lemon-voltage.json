@@ -1,0 +1,23 @@
+{
+  "id": "lemon-voltage",
+  "name": "Lemon Voltage",
+  "description": "Bold lemon backgrounds with punchy golden accents and dark olive typography.",
+  "colors": {
+    "bgcolor": "#FFF08A",
+    "foregroundcolor": "#332E08",
+    "surfacecolor": "#FFF7BD",
+    "surfacebordercolor": "#E5C92E",
+    "primarycolor": "#B58D00",
+    "primaryhovercolor": "#8F7000",
+    "accentcolor": "#E5B900",
+    "accentsoftcolor": "#FFE65C",
+    "mutedcolor": "#756D3D",
+    "fontcolor": "#332E08",
+    "fonthovercolor": "#9B7900",
+    "patterncolor": "#8F7000"
+  },
+  "fonts": {
+    "sans": { "family": "Manrope", "fallback": "ui-sans-serif, system-ui, \"Segoe UI\", sans-serif", "google": true },
+    "display": { "family": "Archivo Black", "fallback": "ui-sans-serif, system-ui, sans-serif", "google": true }
+  }
+}

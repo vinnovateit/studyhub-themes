@@ -1,0 +1,23 @@
+{
+  "id": "seven-seas",
+  "name": "Seven Seas",
+  "description": "Light and airy — deep teal type, mint borders, and a periwinkle-to-violet accent run.",
+  "colors": {
+    "bgcolor": "#EEF3F4",
+    "foregroundcolor": "#06384A",
+    "surfacecolor": "#FFFFFF",
+    "surfacebordercolor": "#B7E2DC",
+    "primarycolor": "#17697F",
+    "primaryhovercolor": "#0F5063",
+    "accentcolor": "#A98CC9",
+    "accentsoftcolor": "#A7DBF5",
+    "mutedcolor": "#5B7F8C",
+    "fontcolor": "#06384A",
+    "fonthovercolor": "#17697F",
+    "patterncolor": "#17697F"
+  },
+  "fonts": {
+    "sans": { "family": "Figtree", "fallback": "ui-sans-serif, system-ui, \"Segoe UI\", sans-serif", "google": true },
+    "display": { "family": "Syne", "fallback": "ui-sans-serif, system-ui, sans-serif", "google": true }
+  }
+}

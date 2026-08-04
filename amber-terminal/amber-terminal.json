@@ -1,0 +1,23 @@
+{
+  "id": "amber-terminal",
+  "name": "Amber Terminal",
+  "description": "Warm amber monochrome inspired by vintage CRT terminals and early command-line workstations.",
+  "colors": {
+    "bgcolor": "#130E05",
+    "foregroundcolor": "#FFD88A",
+    "surfacecolor": "#201708",
+    "surfacebordercolor": "#594017",
+    "primarycolor": "#FFB627",
+    "primaryhovercolor": "#FFC957",
+    "accentcolor": "#FFD166",
+    "accentsoftcolor": "#FFE3A3",
+    "mutedcolor": "#A58B59",
+    "fontcolor": "#FFD88A",
+    "fonthovercolor": "#FFF0C2",
+    "patterncolor": "#FFE3A3"
+  },
+  "fonts": {
+    "sans": { "family": "IBM Plex Mono", "fallback": "ui-monospace, SFMono-Regular, Consolas, monospace", "google": true },
+    "display": { "family": "IBM Plex Mono", "fallback": "ui-monospace, SFMono-Regular, Consolas, monospace", "google": true }
+  }
+}

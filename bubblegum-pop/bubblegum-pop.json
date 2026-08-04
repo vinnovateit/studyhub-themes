@@ -1,0 +1,23 @@
+{
+  "id": "bubblegum-pop",
+  "name": "Bubblegum Pop",
+  "description": "Hot pink accents with playful blush surfaces and bold display typography.",
+  "colors": {
+    "bgcolor": "#FFF4FA",
+    "foregroundcolor": "#25121E",
+    "surfacecolor": "#FFFFFF",
+    "surfacebordercolor": "#F2C5DD",
+    "primarycolor": "#F00083",
+    "primaryhovercolor": "#CC006F",
+    "accentcolor": "#FF4FB2",
+    "accentsoftcolor": "#FFC2E4",
+    "mutedcolor": "#866878",
+    "fontcolor": "#25121E",
+    "fonthovercolor": "#F00083",
+    "patterncolor": "#CC006F"
+  },
+  "fonts": {
+    "sans": { "family": "DM Sans", "fallback": "ui-sans-serif, system-ui, \"Segoe UI\", sans-serif", "google": true },
+    "display": { "family": "Bricolage Grotesque", "fallback": "ui-sans-serif, system-ui, sans-serif", "google": true }
+  }
+}

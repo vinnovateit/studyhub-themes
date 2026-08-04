@@ -1,0 +1,23 @@
+{
+  "id": "peach-punch",
+  "name": "Peach Punch",
+  "description": "Juicy peach backgrounds with bold orange-red accents and warm chocolate typography.",
+  "colors": {
+    "bgcolor": "#FFD2B8",
+    "foregroundcolor": "#4A2114",
+    "surfacecolor": "#FFE5D5",
+    "surfacebordercolor": "#F49B70",
+    "primarycolor": "#E85522",
+    "primaryhovercolor": "#C63E12",
+    "accentcolor": "#FF7A3D",
+    "accentsoftcolor": "#FFB28D",
+    "mutedcolor": "#8B6454",
+    "fontcolor": "#4A2114",
+    "fonthovercolor": "#E85522",
+    "patterncolor": "#C63E12"
+  },
+  "fonts": {
+    "sans": { "family": "DM Sans", "fallback": "ui-sans-serif, system-ui, \"Segoe UI\", sans-serif", "google": true },
+    "display": { "family": "Syne", "fallback": "ui-sans-serif, system-ui, sans-serif", "google": true }
+  }
+}

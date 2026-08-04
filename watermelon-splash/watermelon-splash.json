@@ -1,0 +1,23 @@
+{
+  "id": "watermelon-splash",
+  "name": "Watermelon Splash",
+  "description": "Juicy watermelon red and fresh mint accents with bright summer energy.",
+  "colors": {
+    "bgcolor": "#FFF5F4",
+    "foregroundcolor": "#2D1515",
+    "surfacecolor": "#FFFFFF",
+    "surfacebordercolor": "#F0C4C0",
+    "primarycolor": "#E9354F",
+    "primaryhovercolor": "#C9253D",
+    "accentcolor": "#19B88A",
+    "accentsoftcolor": "#A9EBD7",
+    "mutedcolor": "#806566",
+    "fontcolor": "#2D1515",
+    "fonthovercolor": "#E9354F",
+    "patterncolor": "#C9253D"
+  },
+  "fonts": {
+    "sans": { "family": "Sora", "fallback": "ui-sans-serif, system-ui, \"Segoe UI\", sans-serif", "google": true },
+    "display": { "family": "Bowlby One SC", "fallback": "ui-sans-serif, system-ui, sans-serif", "google": true }
+  }
+}

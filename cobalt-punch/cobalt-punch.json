@@ -1,0 +1,23 @@
+{
+  "id": "cobalt-punch",
+  "name": "Cobalt Punch",
+  "description": "Strong cobalt blue accents on cool white surfaces for a crisp, high-energy academic interface.",
+  "colors": {
+    "bgcolor": "#F3F6FF",
+    "foregroundcolor": "#101A36",
+    "surfacecolor": "#FFFFFF",
+    "surfacebordercolor": "#C5D0F5",
+    "primarycolor": "#2448E8",
+    "primaryhovercolor": "#1836C7",
+    "accentcolor": "#627DFF",
+    "accentsoftcolor": "#C7D1FF",
+    "mutedcolor": "#69728E",
+    "fontcolor": "#101A36",
+    "fonthovercolor": "#2448E8",
+    "patterncolor": "#1836C7"
+  },
+  "fonts": {
+    "sans": { "family": "Urbanist", "fallback": "ui-sans-serif, system-ui, \"Segoe UI\", sans-serif", "google": true },
+    "display": { "family": "Bricolage Grotesque", "fallback": "ui-sans-serif, system-ui, sans-serif", "google": true }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "electric-lemon",
+  "name": "Electric Lemon",
+  "description": "Sharp lemon yellow accents with crisp white surfaces and energetic contrast.",
+  "colors": {
+    "bgcolor": "#FFFDF0",
+    "foregroundcolor": "#18180F",
+    "surfacecolor": "#FFFFFF",
+    "surfacebordercolor": "#E8E1A8",
+    "primarycolor": "#D6B800",
+    "primaryhovercolor": "#B99E00",
+    "accentcolor": "#F5D900",
+    "accentsoftcolor": "#FFF19A",
+    "mutedcolor": "#746F50",
+    "fontcolor": "#18180F",
+    "fonthovercolor": "#D6B800",
+    "patterncolor": "#7A6800"
+  },
+  "fonts": {
+    "sans": { "family": "Manrope", "fallback": "ui-sans-serif, system-ui, \"Segoe UI\", sans-serif", "google": true },
+    "display": { "family": "Syne", "fallback": "ui-sans-serif, system-ui, sans-serif", "google": true }
+  }
+}

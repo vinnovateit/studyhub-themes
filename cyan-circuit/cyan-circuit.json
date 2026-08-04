@@ -1,0 +1,23 @@
+{
+  "id": "cyan-circuit",
+  "name": "Cyan Circuit",
+  "description": "Bright cyan backgrounds with electric teal accents and dark blue-green typography.",
+  "colors": {
+    "bgcolor": "#9DEBF0",
+    "foregroundcolor": "#07383D",
+    "surfacecolor": "#C8F5F7",
+    "surfacebordercolor": "#43C5CD",
+    "primarycolor": "#008C95",
+    "primaryhovercolor": "#006D74",
+    "accentcolor": "#00BCC7",
+    "accentsoftcolor": "#67E3E9",
+    "mutedcolor": "#47777A",
+    "fontcolor": "#07383D",
+    "fonthovercolor": "#008C95",
+    "patterncolor": "#006D74"
+  },
+  "fonts": {
+    "sans": { "family": "Inter", "fallback": "ui-sans-serif, system-ui, \"Segoe UI\", sans-serif", "google": true },
+    "display": { "family": "Chakra Petch", "fallback": "ui-sans-serif, system-ui, sans-serif", "google": true }
+  }
+}

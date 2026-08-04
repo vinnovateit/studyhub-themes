@@ -1,0 +1,23 @@
+{
+  "id": "pastel-prism",
+  "name": "Pastel Prism",
+  "description": "Candy pastels — violet primary with bubblegum pink and sky-blue detail on a lilac-white page.",
+  "colors": {
+    "bgcolor": "#F8F5FE",
+    "foregroundcolor": "#2A1E46",
+    "surfacecolor": "#FFFFFF",
+    "surfacebordercolor": "#DCCDF2",
+    "primarycolor": "#8E6FD4",
+    "primaryhovercolor": "#7457BE",
+    "accentcolor": "#FF8FCE",
+    "accentsoftcolor": "#FFC4E6",
+    "mutedcolor": "#7C7196",
+    "fontcolor": "#2A1E46",
+    "fonthovercolor": "#8E6FD4",
+    "patterncolor": "#4FA3C9"
+  },
+  "fonts": {
+    "sans": { "family": "Nunito", "fallback": "ui-sans-serif, system-ui, \"Segoe UI\", sans-serif", "google": true },
+    "display": { "family": "Baloo 2", "fallback": "ui-sans-serif, system-ui, sans-serif", "google": true }
+  }
+}

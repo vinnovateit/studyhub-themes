@@ -1,0 +1,23 @@
+{
+  "id": "cyber-shell",
+  "name": "Cyber Shell",
+  "description": "High-energy cyan and magenta accents designed to resemble a futuristic developer terminal.",
+  "colors": {
+    "bgcolor": "#071014",
+    "foregroundcolor": "#D8FBFF",
+    "surfacecolor": "#0D1C22",
+    "surfacebordercolor": "#17404B",
+    "primarycolor": "#00D9FF",
+    "primaryhovercolor": "#44E5FF",
+    "accentcolor": "#FF3EC9",
+    "accentsoftcolor": "#FF8CDF",
+    "mutedcolor": "#7198A2",
+    "fontcolor": "#D8FBFF",
+    "fonthovercolor": "#00D9FF",
+    "patterncolor": "#FF8CDF"
+  },
+  "fonts": {
+    "sans": { "family": "JetBrains Mono", "fallback": "ui-monospace, SFMono-Regular, Consolas, monospace", "google": true },
+    "display": { "family": "Share Tech Mono", "fallback": "ui-monospace, SFMono-Regular, Consolas, monospace", "google": true }
+  }
+}

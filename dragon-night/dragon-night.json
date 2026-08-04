@@ -1,0 +1,23 @@
+{
+  "id": "dragon-night",
+  "name": "Dragon Night",
+  "description": "Warm ink-black surfaces, muted teal accents, and weathered syntax colors inspired by the Kanagawa Dragon aesthetic.",
+  "colors": {
+    "bgcolor": "#181616",
+    "foregroundcolor": "#C5C9C5",
+    "surfacecolor": "#282727",
+    "surfacebordercolor": "#393836",
+    "primarycolor": "#8EA4A2",
+    "primaryhovercolor": "#A3B8B5",
+    "accentcolor": "#87A987",
+    "accentsoftcolor": "#A8BFA0",
+    "mutedcolor": "#737C73",
+    "fontcolor": "#C5C9C5",
+    "fonthovercolor": "#C4B28A",
+    "patterncolor": "#A8BFA0"
+  },
+  "fonts": {
+    "sans": { "family": "Geist Mono", "fallback": "ui-monospace, SFMono-Regular, Consolas, monospace", "google": true },
+    "display": { "family": "Geist Mono", "fallback": "ui-monospace, SFMono-Regular, Consolas, monospace", "google": true }
+  }
+}

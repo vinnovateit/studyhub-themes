@@ -1,0 +1,23 @@
+{
+  "id": "sky-candy",
+  "name": "Sky Candy",
+  "description": "Brilliant sky blue accents with icy surfaces and a playful digital personality.",
+  "colors": {
+    "bgcolor": "#EFF9FF",
+    "foregroundcolor": "#0B2438",
+    "surfacecolor": "#FFFFFF",
+    "surfacebordercolor": "#B8DFF5",
+    "primarycolor": "#0089E8",
+    "primaryhovercolor": "#0071C2",
+    "accentcolor": "#35C2FF",
+    "accentsoftcolor": "#B8EAFF",
+    "mutedcolor": "#607C8F",
+    "fontcolor": "#0B2438",
+    "fonthovercolor": "#0089E8",
+    "patterncolor": "#0071C2"
+  },
+  "fonts": {
+    "sans": { "family": "Inter", "fallback": "ui-sans-serif, system-ui, \"Segoe UI\", sans-serif", "google": true },
+    "display": { "family": "Chakra Petch", "fallback": "ui-sans-serif, system-ui, sans-serif", "google": true }
+  }
+}

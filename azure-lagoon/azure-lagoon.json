@@ -1,0 +1,23 @@
+{
+  "id": "azure-lagoon",
+  "name": "Azure Lagoon",
+  "description": "Vibrant ocean blue surfaces with turquoise accents and crisp navy typography.",
+  "colors": {
+    "bgcolor": "#BDEBFF",
+    "foregroundcolor": "#092A42",
+    "surfacecolor": "#DDF5FF",
+    "surfacebordercolor": "#6DC9EE",
+    "primarycolor": "#0077B6",
+    "primaryhovercolor": "#005F91",
+    "accentcolor": "#00B4D8",
+    "accentsoftcolor": "#7FE5F5",
+    "mutedcolor": "#47788D",
+    "fontcolor": "#092A42",
+    "fonthovercolor": "#0077B6",
+    "patterncolor": "#005F91"
+  },
+  "fonts": {
+    "sans": { "family": "Outfit", "fallback": "ui-sans-serif, system-ui, \"Segoe UI\", sans-serif", "google": true },
+    "display": { "family": "Space Grotesk", "fallback": "ui-sans-serif, system-ui, sans-serif", "google": true }
+  }
+}

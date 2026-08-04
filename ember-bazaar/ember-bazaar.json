@@ -1,0 +1,23 @@
+{
+  "id": "ember-bazaar",
+  "name": "Ember Bazaar",
+  "description": "Poster-warm vermilion and marigold over bone paper, with a rose blush accent.",
+  "colors": {
+    "bgcolor": "#EBE9E1",
+    "foregroundcolor": "#2B1408",
+    "surfacecolor": "#F7F5EF",
+    "surfacebordercolor": "#D8D3C4",
+    "primarycolor": "#E43D12",
+    "primaryhovercolor": "#BF3010",
+    "accentcolor": "#EFB11D",
+    "accentsoftcolor": "#FFA2B6",
+    "mutedcolor": "#8A7B6B",
+    "fontcolor": "#2B1408",
+    "fonthovercolor": "#E43D12",
+    "patterncolor": "#D6536D"
+  },
+  "fonts": {
+    "sans": { "family": "Work Sans", "fallback": "ui-sans-serif, system-ui, \"Segoe UI\", sans-serif", "google": true },
+    "display": { "family": "Fraunces", "fallback": "ui-serif, Georgia, serif", "google": true }
+  }
+}

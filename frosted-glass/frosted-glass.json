@@ -1,0 +1,23 @@
+{
+  "id": "frosted-glass",
+  "name": "Frosted Glass",
+  "description": "Winter-window blues — deep navy surfaces stepping up to pale ice highlights.",
+  "colors": {
+    "bgcolor": "#1B2836",
+    "foregroundcolor": "#E8EEF4",
+    "surfacecolor": "#253649",
+    "surfacebordercolor": "#3C5470",
+    "primarycolor": "#4E7396",
+    "primaryhovercolor": "#628BAF",
+    "accentcolor": "#A9C9DC",
+    "accentsoftcolor": "#D8E7F2",
+    "mutedcolor": "#8AA0B2",
+    "fontcolor": "#E8EEF4",
+    "fonthovercolor": "#FFFFFF",
+    "patterncolor": "#A9C9DC"
+  },
+  "fonts": {
+    "sans": { "family": "Inter", "fallback": "ui-sans-serif, system-ui, \"Segoe UI\", sans-serif", "google": true },
+    "display": { "family": "Playfair Display", "fallback": "ui-serif, Georgia, serif", "google": true }
+  }
+}

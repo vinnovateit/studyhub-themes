@@ -1,0 +1,23 @@
+{
+  "id": "coral-soda",
+  "name": "Coral Soda",
+  "description": "Energetic coral backgrounds with saturated red-orange accents and deep burgundy typography.",
+  "colors": {
+    "bgcolor": "#FFB6A8",
+    "foregroundcolor": "#4A1717",
+    "surfacecolor": "#FFD4CC",
+    "surfacebordercolor": "#EE7968",
+    "primarycolor": "#D93D2B",
+    "primaryhovercolor": "#B92C1D",
+    "accentcolor": "#FF624C",
+    "accentsoftcolor": "#FF9E8E",
+    "mutedcolor": "#8C5C56",
+    "fontcolor": "#4A1717",
+    "fonthovercolor": "#D93D2B",
+    "patterncolor": "#B92C1D"
+  },
+  "fonts": {
+    "sans": { "family": "Urbanist", "fallback": "ui-sans-serif, system-ui, \"Segoe UI\", sans-serif", "google": true },
+    "display": { "family": "Bricolage Grotesque", "fallback": "ui-sans-serif, system-ui, sans-serif", "google": true }
+  }
+}

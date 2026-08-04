@@ -1,0 +1,23 @@
+{
+  "id": "deep-current",
+  "name": "Deep Current",
+  "description": "Near-black teal depths lit by cyan, with a steel-blue horizon line.",
+  "colors": {
+    "bgcolor": "#031716",
+    "foregroundcolor": "#DCF2F1",
+    "surfacecolor": "#032F30",
+    "surfacebordercolor": "#274D60",
+    "primarycolor": "#0A7075",
+    "primaryhovercolor": "#0C969C",
+    "accentcolor": "#0C969C",
+    "accentsoftcolor": "#9FD4DA",
+    "mutedcolor": "#6BA3BE",
+    "fontcolor": "#DCF2F1",
+    "fonthovercolor": "#FFFFFF",
+    "patterncolor": "#0C969C"
+  },
+  "fonts": {
+    "sans": { "family": "IBM Plex Sans", "fallback": "ui-sans-serif, system-ui, \"Segoe UI\", sans-serif", "google": true },
+    "display": { "family": "Space Grotesk", "fallback": "ui-sans-serif, system-ui, sans-serif", "google": true }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "tangerine-burst",
+  "name": "Tangerine Burst",
+  "description": "Vibrant orange accents over creamy warm surfaces for a bold and cheerful interface.",
+  "colors": {
+    "bgcolor": "#FFF8ED",
+    "foregroundcolor": "#2C1909",
+    "surfacecolor": "#FFFFFF",
+    "surfacebordercolor": "#F1D2A8",
+    "primarycolor": "#F06400",
+    "primaryhovercolor": "#CB5000",
+    "accentcolor": "#FF9A2E",
+    "accentsoftcolor": "#FFD6A6",
+    "mutedcolor": "#856C55",
+    "fontcolor": "#2C1909",
+    "fonthovercolor": "#F06400",
+    "patterncolor": "#CB5000"
+  },
+  "fonts": {
+    "sans": { "family": "Nunito Sans", "fallback": "ui-sans-serif, system-ui, \"Segoe UI\", sans-serif", "google": true },
+    "display": { "family": "Archivo Black", "fallback": "ui-sans-serif, system-ui, sans-serif", "google": true }
+  }
+}

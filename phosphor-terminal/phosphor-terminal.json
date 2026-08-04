@@ -1,0 +1,23 @@
+{
+  "id": "phosphor-terminal",
+  "name": "Phosphor Terminal",
+  "description": "Classic green phosphor terminal aesthetics with subdued surfaces and sharp command-line contrast.",
+  "colors": {
+    "bgcolor": "#07110B",
+    "foregroundcolor": "#C8FFD8",
+    "surfacecolor": "#0C1A11",
+    "surfacebordercolor": "#214A2C",
+    "primarycolor": "#35D06F",
+    "primaryhovercolor": "#52E889",
+    "accentcolor": "#7CFF9F",
+    "accentsoftcolor": "#A8F5BB",
+    "mutedcolor": "#6F9B79",
+    "fontcolor": "#C8FFD8",
+    "fonthovercolor": "#7CFF9F",
+    "patterncolor": "#A8F5BB"
+  },
+  "fonts": {
+    "sans": { "family": "JetBrains Mono", "fallback": "ui-monospace, SFMono-Regular, Consolas, monospace", "google": true },
+    "display": { "family": "JetBrains Mono", "fallback": "ui-monospace, SFMono-Regular, Consolas, monospace", "google": true }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "tropical-aqua",
+  "name": "Tropical Aqua",
+  "description": "Fresh turquoise accents with cool aqua surfaces and clean tropical energy.",
+  "colors": {
+    "bgcolor": "#EFFFFB",
+    "foregroundcolor": "#082923",
+    "surfacecolor": "#FFFFFF",
+    "surfacebordercolor": "#A8E8DC",
+    "primarycolor": "#008F78",
+    "primaryhovercolor": "#007562",
+    "accentcolor": "#00D9B5",
+    "accentsoftcolor": "#A3F4E3",
+    "mutedcolor": "#557A73",
+    "fontcolor": "#082923",
+    "fonthovercolor": "#008F78",
+    "patterncolor": "#007562"
+  },
+  "fonts": {
+    "sans": { "family": "Outfit", "fallback": "ui-sans-serif, system-ui, \"Segoe UI\", sans-serif", "google": true },
+    "display": { "family": "Space Grotesk", "fallback": "ui-sans-serif, system-ui, sans-serif", "google": true }
+  }
+}

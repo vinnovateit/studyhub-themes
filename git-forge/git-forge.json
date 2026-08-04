@@ -1,0 +1,23 @@
+{
+  "id": "git-forge",
+  "name": "Git Forge",
+  "description": "A restrained developer workspace with graphite surfaces, diff-green accents, and warm commit-orange highlights.",
+  "colors": {
+    "bgcolor": "#111418",
+    "foregroundcolor": "#DDE3EA",
+    "surfacecolor": "#1B2027",
+    "surfacebordercolor": "#343C47",
+    "primarycolor": "#3FB950",
+    "primaryhovercolor": "#56D364",
+    "accentcolor": "#F0883E",
+    "accentsoftcolor": "#E3A06A",
+    "mutedcolor": "#8B949E",
+    "fontcolor": "#DDE3EA",
+    "fonthovercolor": "#58A6FF",
+    "patterncolor": "#E3A06A"
+  },
+  "fonts": {
+    "sans": { "family": "Geist Mono", "fallback": "ui-monospace, SFMono-Regular, Consolas, monospace", "google": true },
+    "display": { "family": "JetBrains Mono", "fallback": "ui-monospace, SFMono-Regular, Consolas, monospace", "google": true }
+  }
+}

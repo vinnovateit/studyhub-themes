@@ -1,0 +1,23 @@
+{
+  "id": "amber-sunrise",
+  "name": "Amber Sunrise",
+  "description": "Warm amber accents with a Fraunces display face.",
+  "colors": {
+    "bgcolor": "#120d08",
+    "foregroundcolor": "#f5ece0",
+    "surfacecolor": "#1d1510",
+    "surfacebordercolor": "#3a2a1c",
+    "primarycolor": "#c2660f",
+    "primaryhovercolor": "#e07f1c",
+    "accentcolor": "#f0a13e",
+    "accentsoftcolor": "#f6c98a",
+    "mutedcolor": "#c2ab93",
+    "fontcolor": "#f5ece0",
+    "fonthovercolor": "#ffffff",
+    "patterncolor": "#f6c98a"
+  },
+  "fonts": {
+    "sans": { "family": "Manrope", "fallback": "ui-sans-serif, system-ui, \"Segoe UI\", sans-serif", "google": true },
+    "display": { "family": "Fraunces", "fallback": "ui-sans-serif, system-ui, sans-serif", "google": true }
+  }
+}
