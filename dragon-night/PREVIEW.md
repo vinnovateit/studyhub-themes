@@ -9,18 +9,30 @@ Warm ink-black rather than blue-black, with sage and muted teal accents and a wh
 ## Preview
 
 ### 1. Dashboard
+<img width="797" height="347" alt="image" src="https://github.com/user-attachments/assets/16985466-9e1d-4f0b-beac-5c0229338474" />
+
 
 ### 2. Explore
+<img width="801" height="374" alt="image" src="https://github.com/user-attachments/assets/18413342-d6b2-40c2-9e2f-ff7341a48912" />
+
 
 ### 3. Modules
+<img width="800" height="367" alt="image" src="https://github.com/user-attachments/assets/52919bde-47de-43ac-9df0-feb91fa9b323" />
+
 
 ### 4. Papers
+<img width="806" height="376" alt="image" src="https://github.com/user-attachments/assets/bb88f28d-547d-4f69-b00e-e7410967d2b5" />
+
 
 ### 5. Paper Sample
+<img width="803" height="368" alt="image" src="https://github.com/user-attachments/assets/17483040-df24-438a-a896-b4402e9ee25b" />
 
 ### 6. Notes
+<img width="803" height="375" alt="image" src="https://github.com/user-attachments/assets/b990d55c-0676-4161-a29e-6a8923d4a5f3" />
 
 ### 7. Videos
+<img width="803" height="358" alt="image" src="https://github.com/user-attachments/assets/40526454-ace5-4ba6-925a-adc2b9a74862" />
+
 
 ## Palette
 
