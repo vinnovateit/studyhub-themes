@@ -9,25 +9,31 @@ Icy near-white surfaces with a brilliant sky-blue primary and a lighter cyan acc
 ## Preview
 
 ### 1. Dashboard
-<img width="1902" height="880" alt="image" src="https://github.com/user-attachments/assets/50c9b330-42d1-4e3e-adc2-27494f40550c" />
+
+<img width="1547" height="767" alt="image" src="https://github.com/user-attachments/assets/ef0343fd-2457-433b-83d4-2a7a9e690de2" />
 
 ### 2. Explore
-<img width="1917" height="890" alt="image" src="https://github.com/user-attachments/assets/e574d45d-1da8-404b-b704-a0e1f0406174" />
+
+<img width="1562" height="812" alt="image" src="https://github.com/user-attachments/assets/8d83c00a-1b94-4bdd-b32e-b69145e19e58" />
 
 ### 3. Modules
-<img width="1907" height="887" alt="image" src="https://github.com/user-attachments/assets/445e2378-d45f-40a8-aff1-a80cd0f25778" />
+<img width="1547" height="716" alt="image" src="https://github.com/user-attachments/assets/0054250f-1204-4837-8a7b-deefb1909d19" />
+
 
 ### 4. Papers
-<img width="1912" height="882" alt="image" src="https://github.com/user-attachments/assets/e0cde451-38e6-42ec-9cf9-f699e6f80b98" />
+<img width="1546" height="812" alt="image" src="https://github.com/user-attachments/assets/1b88e406-688d-433e-94fa-8e023c39df6c" />
+
 
 ### 5. Paper Sample
-<img width="1917" height="890" alt="image" src="https://github.com/user-attachments/assets/f06006f6-9138-442d-934e-3873dad74d1b" />
+<img width="1560" height="802" alt="image" src="https://github.com/user-attachments/assets/eb482fcb-45a8-4fed-b266-df6b06e0f6a3" />
+
 
 ### 6. Notes
-<img width="1907" height="886" alt="image" src="https://github.com/user-attachments/assets/f6a7a14c-9855-4b72-8470-221865e97f9b" />
+
+<img width="1527" height="792" alt="image" src="https://github.com/user-attachments/assets/db6e4ee5-f69c-438e-bee9-7f801cc79f78" />
 
 ### 7. Videos
-<img width="1900" height="887" alt="image" src="https://github.com/user-attachments/assets/16d6f15e-ada0-4a1a-ac70-efc33139fc6d" />
+<img width="1557" height="796" alt="image" src="https://github.com/user-attachments/assets/29ea7f3b-f633-4b6d-bd4d-3e72a12fe4c3" />
 
 ## Palette
 
