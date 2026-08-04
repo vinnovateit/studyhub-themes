@@ -9,7 +9,8 @@ Cyan and magenta over near-black, the classic synthwave-terminal split. Cyan own
 ## Preview
 
 ### 1. Dashboard
-<img width="1233" height="811" alt="image" src="https://github.com/user-attachments/assets/0994015f-62a6-4076-8534-60cb75fa0baf" />
+<img width="1239" height="769" alt="image" src="https://github.com/user-attachments/assets/920e17ae-ab07-4cda-b5f3-c9c392bad1b8" />
+
 
 
 ### 2. Explore
