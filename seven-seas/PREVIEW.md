@@ -6,6 +6,22 @@
 
 Light and airy: white cards on a cool grey page, deep teal type, mint borders, and a periwinkle-to-violet accent run that keeps it from being just another blue theme. Figtree and Syne. One of the six original numbered concepts.
 
+## Preview
+
+### 1. Dashboard
+
+### 2. Explore
+
+### 3. Modules
+
+### 4. Papers
+
+### 5. Paper Sample
+
+### 6. Notes
+
+### 7. Videos
+
 ## Palette
 
 | Role | Token | Hex |

@@ -6,6 +6,22 @@
 
 Icy near-white surfaces with a brilliant sky-blue primary and a lighter cyan accent — the most conventional light theme here, lifted by Chakra Petch headings that give it a playful, slightly futuristic personality. A good default for people who bounce off tinted backgrounds.
 
+## Preview
+
+### 1. Dashboard
+
+### 2. Explore
+
+### 3. Modules
+
+### 4. Papers
+
+### 5. Paper Sample
+
+### 6. Notes
+
+### 7. Videos
+
 ## Palette
 
 | Role | Token | Hex |

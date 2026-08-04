@@ -6,6 +6,22 @@
 
 Winter-window blues — deep navy surfaces stepping up through slate to pale ice highlights, all within one hue. Playfair Display headings over Inter give it the only serif-on-dark pairing in the collection, which reads unexpectedly formal. One of the six original numbered concepts.
 
+## Preview
+
+### 1. Dashboard
+
+### 2. Explore
+
+### 3. Modules
+
+### 4. Papers
+
+### 5. Paper Sample
+
+### 6. Notes
+
+### 7. Videos
+
 ## Palette
 
 | Role | Token | Hex |

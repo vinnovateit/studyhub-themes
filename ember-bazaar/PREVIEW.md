@@ -6,6 +6,22 @@
 
 Poster-warm vermilion and marigold printed on bone-coloured paper, with a rose blush for the background pattern. Work Sans and Fraunces make it the most editorial theme here — closer to a printed programme than a UI. One of the six original numbered concepts.
 
+## Preview
+
+### 1. Dashboard
+
+### 2. Explore
+
+### 3. Modules
+
+### 4. Papers
+
+### 5. Paper Sample
+
+### 6. Notes
+
+### 7. Videos
+
 ## Palette
 
 | Role | Token | Hex |

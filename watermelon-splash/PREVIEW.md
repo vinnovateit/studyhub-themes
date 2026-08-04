@@ -6,6 +6,22 @@
 
 Warm off-white pages with a watermelon-red primary and a mint-green accent, so the two complementary halves of the fruit both show up in the UI. Bowlby One SC headings are the heaviest display face in the set and give it a real summer-poster feel.
 
+## Preview
+
+### 1. Dashboard
+
+### 2. Explore
+
+### 3. Modules
+
+### 4. Papers
+
+### 5. Paper Sample
+
+### 6. Notes
+
+### 7. Videos
+
 ## Palette
 
 | Role | Token | Hex |

@@ -6,6 +6,22 @@
 
 An off-white page with a lemon-yellow primary, which is a genuinely hard trick — the palette pushes the interactive yellow dark enough to hold contrast against white while the softer accent handles fills and highlights. Manrope with Syne headings keeps it modern rather than novelty.
 
+## Preview
+
+### 1. Dashboard
+
+### 2. Explore
+
+### 3. Modules
+
+### 4. Papers
+
+### 5. Paper Sample
+
+### 6. Notes
+
+### 7. Videos
+
 ## Palette
 
 | Role | Token | Hex |

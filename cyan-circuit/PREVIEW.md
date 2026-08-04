@@ -6,6 +6,22 @@
 
 Bright aqua pages with electric teal accents and dark blue-green type. Chakra Petch on headings adds the squared-off, technical edge the name promises, while Inter keeps the reading text ordinary. Cold, high-energy, and unmistakably a light theme that refuses to be white.
 
+## Preview
+
+### 1. Dashboard
+
+### 2. Explore
+
+### 3. Modules
+
+### 4. Papers
+
+### 5. Paper Sample
+
+### 6. Notes
+
+### 7. Videos
+
 ## Palette
 
 | Role | Token | Hex |

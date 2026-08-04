@@ -6,6 +6,22 @@
 
 Full-strength lemon as the page colour, olive-dark type, and gold accents. Archivo Black headings on Manrope body give it a poster-print weight. Extremely high-energy and best in short bursts; the sibling of Electric Lemon with the yellow moved from the accents into the background.
 
+## Preview
+
+### 1. Dashboard
+
+### 2. Explore
+
+### 3. Modules
+
+### 4. Papers
+
+### 5. Paper Sample
+
+### 6. Notes
+
+### 7. Videos
+
 ## Palette
 
 | Role | Token | Hex |

@@ -6,6 +6,22 @@
 
 A restrained developer workspace: graphite surfaces, diff-green primary, commit-orange accent, and a blue hover state, borrowing its signals from the colours you already read in a diff. Geist Mono and JetBrains Mono make it the least decorative of the coding themes — closer to a tool than a skin.
 
+## Preview
+
+### 1. Dashboard
+
+### 2. Explore
+
+### 3. Modules
+
+### 4. Papers
+
+### 5. Paper Sample
+
+### 6. Notes
+
+### 7. Videos
+
 ## Palette
 
 | Role | Token | Hex |

@@ -6,6 +6,22 @@
 
 Warm ink-black rather than blue-black, with sage and muted teal accents and a wheat-coloured hover — a weathered, low-saturation palette. Geist Mono throughout. The quietest dark theme in the set: almost nothing glows, which is the point.
 
+## Preview
+
+### 1. Dashboard
+
+### 2. Explore
+
+### 3. Modules
+
+### 4. Papers
+
+### 5. Paper Sample
+
+### 6. Notes
+
+### 7. Videos
+
 ## Palette
 
 | Role | Token | Hex |

@@ -6,6 +6,22 @@
 
 Barely-tinted mint-white surfaces with a deep teal primary and a bright turquoise accent — the light theme that gets closest to feeling clinical while still having a clear colour identity. Outfit and Space Grotesk keep the edges geometric.
 
+## Preview
+
+### 1. Dashboard
+
+### 2. Explore
+
+### 3. Modules
+
+### 4. Papers
+
+### 5. Paper Sample
+
+### 6. Notes
+
+### 7. Videos
+
 ## Palette
 
 | Role | Token | Hex |

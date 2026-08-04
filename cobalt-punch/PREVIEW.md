@@ -6,6 +6,22 @@
 
 Cool-white surfaces, a strong cobalt primary, and periwinkle accents — the most conventionally 'productivity app' of the light themes, but with the saturation pushed a stop past safe. Urbanist and Bricolage Grotesque are the house pairing, so it reads as the stock look with the blue swapped in for purple.
 
+## Preview
+
+### 1. Dashboard
+
+### 2. Explore
+
+### 3. Modules
+
+### 4. Papers
+
+### 5. Paper Sample
+
+### 6. Notes
+
+### 7. Videos
+
 ## Palette
 
 | Role | Token | Hex |

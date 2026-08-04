@@ -6,6 +6,22 @@
 
 Creamy warm-white surfaces with a vivid tangerine primary and a softer orange accent. Nunito Sans keeps the reading text friendly while Archivo Black headings give it real poster weight. Cheerful without tinting the whole page.
 
+## Preview
+
+### 1. Dashboard
+
+### 2. Explore
+
+### 3. Modules
+
+### 4. Papers
+
+### 5. Paper Sample
+
+### 6. Notes
+
+### 7. Videos
+
 ## Palette
 
 | Role | Token | Hex |

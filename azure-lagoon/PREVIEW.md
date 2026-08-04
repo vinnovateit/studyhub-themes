@@ -6,6 +6,22 @@
 
 A saturated light theme — the page itself is pool-blue rather than white, with paler cards floating on top and deep navy type for contrast. Turquoise accents keep it feeling like water rather than corporate blue. Outfit and Space Grotesk add a rounded, geometric edge.
 
+## Preview
+
+### 1. Dashboard
+
+### 2. Explore
+
+### 3. Modules
+
+### 4. Papers
+
+### 5. Paper Sample
+
+### 6. Notes
+
+### 7. Videos
+
 ## Palette
 
 | Role | Token | Hex |

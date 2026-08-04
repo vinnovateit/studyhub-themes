@@ -6,6 +6,22 @@
 
 Candy pastels on lilac-white: a soft violet primary, bubblegum-pink accent, and a sky-blue pattern colour, so three distinct hues share the page without any of them dominating. Nunito and Baloo 2 make it the roundest, friendliest theme in the set. One of the six original numbered concepts.
 
+## Preview
+
+### 1. Dashboard
+
+### 2. Explore
+
+### 3. Modules
+
+### 4. Papers
+
+### 5. Paper Sample
+
+### 6. Notes
+
+### 7. Videos
+
 ## Palette
 
 | Role | Token | Hex |

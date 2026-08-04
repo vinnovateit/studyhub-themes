@@ -6,6 +6,22 @@
 
 Green phosphor on near-black, the other half of the vintage-terminal pair with Amber Terminal. Surfaces stay very dark so the green reads as emitted light rather than paint. JetBrains Mono in both slots, no proportional type anywhere.
 
+## Preview
+
+### 1. Dashboard
+
+### 2. Explore
+
+### 3. Modules
+
+### 4. Papers
+
+### 5. Paper Sample
+
+### 6. Notes
+
+### 7. Videos
+
 ## Palette
 
 | Role | Token | Hex |

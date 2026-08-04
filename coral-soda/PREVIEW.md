@@ -6,6 +6,22 @@
 
 A fully tinted light theme: the background is coral, the cards are a paler coral, and the type is deep burgundy. Red-orange accents sit on top without ever going neon. Loud and warm, and surprisingly readable because every colour is drawn from the same narrow band.
 
+## Preview
+
+### 1. Dashboard
+
+### 2. Explore
+
+### 3. Modules
+
+### 4. Papers
+
+### 5. Paper Sample
+
+### 6. Notes
+
+### 7. Videos
+
 ## Palette
 
 | Role | Token | Hex |

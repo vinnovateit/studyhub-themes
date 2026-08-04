@@ -6,6 +6,22 @@
 
 Near-black teal at the bottom, deep sea-green surfaces above it, and one cyan that serves as both primary hover and accent. Very dark and very cold. IBM Plex Sans with Space Grotesk headings. One of the six original numbered concepts.
 
+## Preview
+
+### 1. Dashboard
+
+### 2. Explore
+
+### 3. Modules
+
+### 4. Papers
+
+### 5. Paper Sample
+
+### 6. Notes
+
+### 7. Videos
+
 ## Palette
 
 | Role | Token | Hex |

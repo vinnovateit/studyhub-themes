@@ -6,6 +6,22 @@
 
 A fully-tinted light theme in fresh mint, with emerald interactive colour and deep forest type. Sora and Space Grotesk give it a geometric, slightly technical feel that stops the pastel background from reading as childlike.
 
+## Preview
+
+### 1. Dashboard
+
+### 2. Explore
+
+### 3. Modules
+
+### 4. Papers
+
+### 5. Paper Sample
+
+### 6. Notes
+
+### 7. Videos
+
 ## Palette
 
 | Role | Token | Hex |

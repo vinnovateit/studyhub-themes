@@ -6,6 +6,22 @@
 
 The warm end of a dark theme done with editorial restraint: cocoa-brown surfaces, a burnt-orange primary, and honey accents that only show up on the things you can click. Manrope carries the interface while Fraunces gives headings a soft, high-contrast serif that reads more magazine than terminal.
 
+## Preview
+
+### 1. Dashboard
+
+### 2. Explore
+
+### 3. Modules
+
+### 4. Papers
+
+### 5. Paper Sample
+
+### 6. Notes
+
+### 7. Videos
+
 ## Palette
 
 | Role | Token | Hex |

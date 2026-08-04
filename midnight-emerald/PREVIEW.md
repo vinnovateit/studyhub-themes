@@ -6,6 +6,22 @@
 
 Deep green-black surfaces with a jewel-toned emerald primary and a mint accent that only appears on hover and highlights. Inter and Space Grotesk keep it clean and neutral, so the colour does all the character work. The calmest of the saturated dark themes.
 
+## Preview
+
+### 1. Dashboard
+
+### 2. Explore
+
+### 3. Modules
+
+### 4. Papers
+
+### 5. Paper Sample
+
+### 6. Notes
+
+### 7. Videos
+
 ## Palette
 
 | Role | Token | Hex |

@@ -6,6 +6,22 @@
 
 Near-white blush pages with white cards and one very loud pink doing all the work. Nothing is subtle: the primary is a full-strength magenta and the accent is brighter still. DM Sans keeps the body text calm enough that Bricolage Grotesque headlines can shout.
 
+## Preview
+
+### 1. Dashboard
+
+### 2. Explore
+
+### 3. Modules
+
+### 4. Papers
+
+### 5. Paper Sample
+
+### 6. Notes
+
+### 7. Videos
+
 ## Palette
 
 | Role | Token | Hex |

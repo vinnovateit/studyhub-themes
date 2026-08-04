@@ -6,6 +6,22 @@
 
 Warm peach pages, paler peach cards, chocolate-brown type, and an orange-red primary that carries real punch against the soft ground. DM Sans body with Syne headings. The warm counterpart to Mint Mojito — same construction, opposite temperature.
 
+## Preview
+
+### 1. Dashboard
+
+### 2. Explore
+
+### 3. Modules
+
+### 4. Papers
+
+### 5. Paper Sample
+
+### 6. Notes
+
+### 7. Videos
+
 ## Palette
 
 | Role | Token | Hex |

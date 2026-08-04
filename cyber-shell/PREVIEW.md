@@ -6,6 +6,22 @@
 
 Cyan and magenta over near-black, the classic synthwave-terminal split. Cyan owns the interactive elements and magenta the decorative ones, so the two never fight for the same job. Share Tech Mono headings over JetBrains Mono body is the most aggressively 'console' pairing in the set.
 
+## Preview
+
+### 1. Dashboard
+
+### 2. Explore
+
+### 3. Modules
+
+### 4. Papers
+
+### 5. Paper Sample
+
+### 6. Notes
+
+### 7. Videos
+
 ## Palette
 
 | Role | Token | Hex |

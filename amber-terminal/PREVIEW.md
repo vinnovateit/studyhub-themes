@@ -6,6 +6,22 @@
 
 A single-hue theme: everything from body copy to borders is a step on one amber ramp over near-black, the way a monochrome phosphor tube only ever had one colour to give. IBM Plex Mono in both slots keeps the illusion intact — there is no proportional face anywhere in the UI. Best for long dark-room sessions where you want the interface to disappear behind the text.
 
+## Preview
+
+### 1. Dashboard
+
+### 2. Explore
+
+### 3. Modules
+
+### 4. Papers
+
+### 5. Paper Sample
+
+### 6. Notes
+
+### 7. Videos
+
 ## Palette
 
 | Role | Token | Hex |

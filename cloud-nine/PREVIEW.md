@@ -6,6 +6,22 @@
 
 Muted slate-plum surfaces carrying exactly one loud colour: a lavender that appears on every interactive element and nothing else. Because the base is desaturated, that single accent does an unusual amount of work. Manrope with Archivo headings. One of the six original numbered concepts.
 
+## Preview
+
+### 1. Dashboard
+
+### 2. Explore
+
+### 3. Modules
+
+### 4. Papers
+
+### 5. Paper Sample
+
+### 6. Notes
+
+### 7. Videos
+
 ## Palette
 
 | Role | Token | Hex |
