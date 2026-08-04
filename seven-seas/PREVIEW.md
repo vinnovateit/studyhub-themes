@@ -9,18 +9,25 @@ Light and airy: white cards on a cool grey page, deep teal type, mint borders, a
 ## Preview
 
 ### 1. Dashboard
+<img width="1912" height="912" alt="image" src="https://github.com/user-attachments/assets/4e4b669e-3b7f-472c-88e3-a3f56daf0d32" />
 
 ### 2. Explore
+<img width="1910" height="892" alt="image" src="https://github.com/user-attachments/assets/14d43e28-d229-42ae-bd29-b1512a8b4812" />
 
 ### 3. Modules
+<img width="1910" height="935" alt="image" src="https://github.com/user-attachments/assets/3591c8b8-eb4e-453a-b42c-b21f038b3b92" />
 
 ### 4. Papers
+<img width="1912" height="895" alt="image" src="https://github.com/user-attachments/assets/fa0a611d-6939-40aa-9e6a-39eb96260290" />
 
 ### 5. Paper Sample
+<img width="1916" height="960" alt="image" src="https://github.com/user-attachments/assets/b149d925-1a78-4809-b9fe-d4b2b58730e5" />
 
 ### 6. Notes
+<img width="1910" height="861" alt="image" src="https://github.com/user-attachments/assets/e2782700-c9b2-4c3b-bd11-8ebf836ba229" />
 
 ### 7. Videos
+<img width="1917" height="901" alt="image" src="https://github.com/user-attachments/assets/7c36239a-305e-4023-ad3e-bfbf640817ca" />
 
 ## Palette
 
