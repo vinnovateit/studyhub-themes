@@ -9,25 +9,30 @@ Green phosphor on near-black, the other half of the vintage-terminal pair with A
 ## Preview
 
 ### 1. Dashboard
-<img width="1905" height="872" alt="image" src="https://github.com/user-attachments/assets/9f0829b8-62b7-4303-8e37-8c54e86841d2" />
+<img width="1536" height="772" alt="image" src="https://github.com/user-attachments/assets/7ddd1273-5501-480e-ab97-0419df3061d9" />
+
 
 ### 2. Explore
-<img width="1897" height="885" alt="image" src="https://github.com/user-attachments/assets/92a9beb8-4d1e-4a90-9e49-44283a113654" />
+<img width="1557" height="755" alt="image" src="https://github.com/user-attachments/assets/bb8b886a-f2d1-49f1-b62f-8464c211e304" />
 
 ### 3. Modules
-<img width="1912" height="887" alt="image" src="https://github.com/user-attachments/assets/0d68f072-2968-41f3-94b5-32a24a66ea41" />
+<img width="1542" height="730" alt="image" src="https://github.com/user-attachments/assets/2c993278-a807-44b1-85b2-42340f4429f9" />
+
 
 ### 4. Papers
-<img width="1897" height="880" alt="image" src="https://github.com/user-attachments/assets/ec4feedb-4850-43e6-9e7c-96d12a640c94" />
+<img width="1540" height="815" alt="image" src="https://github.com/user-attachments/assets/f7e4b6d6-fb27-4e39-a4a0-3c14c28a683f" />
 
 ### 5. Paper Sample
-<img width="1917" height="907" alt="image" src="https://github.com/user-attachments/assets/384b4216-167a-440e-839c-4ff532cccf76" />
+
+<img width="1526" height="805" alt="image" src="https://github.com/user-attachments/assets/423c3111-41fe-4315-8ce6-7ebc917d48e5" />
 
 ### 6. Notes
-<img width="1897" height="857" alt="image" src="https://github.com/user-attachments/assets/6606046b-c14b-4192-970b-05a17e0fe524" />
+<img width="1550" height="800" alt="image" src="https://github.com/user-attachments/assets/83a93cfe-2e8c-4c42-934e-bab9f976621b" />
+
 
 ### 7. Videos
-<img width="1917" height="827" alt="image" src="https://github.com/user-attachments/assets/f0fcf9e2-e878-4e9c-9d0c-bdeb5088d9c6" />
+<img width="1557" height="770" alt="image" src="https://github.com/user-attachments/assets/75e1e1b1-7247-4bc5-be13-bf65117d1a33" />
+
 
 ## Palette
 
