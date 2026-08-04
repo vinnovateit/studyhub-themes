@@ -29,11 +29,13 @@ Near-white blush pages with white cards and one very loud pink doing all the wor
 
 
 ### 6. Notes
-<img width="1236" height="801" alt="image" src="https://github.com/user-attachments/assets/6cd3768d-49c6-4714-919e-c00447b8eea8" />
+<img width="1236" height="789" alt="image" src="https://github.com/user-attachments/assets/08a8b6f6-302e-4729-af41-b60b5e1bd0b9" />
+
 
 
 ### 7. Videos
-<img width="1234" height="797" alt="image" src="https://github.com/user-attachments/assets/1647ff6c-1da0-4f4a-b038-528cb927f15d" />
+<img width="1240" height="792" alt="image" src="https://github.com/user-attachments/assets/9ea9a342-5897-42b7-a21f-3fc143a400b5" />
+
 
 
 ## Palette
