@@ -10,31 +10,36 @@ A fully-tinted light theme in fresh mint, with emerald interactive colour and de
 
 ### 1. Dashboard
 
-<img width="1917" height="882" alt="image" src="https://github.com/user-attachments/assets/ab770a76-31ba-4daa-b2b7-3c7a06d02c93" />
+<img width="1552" height="767" alt="image" src="https://github.com/user-attachments/assets/7d84b384-3f72-44ab-a48e-c3ff3f59a035" />
+
 
 ### 2. Explore
 
-<img width="1907" height="911" alt="image" src="https://github.com/user-attachments/assets/72b6d1cc-0687-47d3-b946-65c531fc969e" />
+<img width="1535" height="757" alt="image" src="https://github.com/user-attachments/assets/d3697c2f-cefc-4a00-987b-cb913911d237" />
+
 
 ### 3. Modules
+<img width="1545" height="796" alt="image" src="https://github.com/user-attachments/assets/73ce3966-7fb1-4c60-a8a8-b6dec19e5f27" />
 
-<img width="1910" height="922" alt="image" src="https://github.com/user-attachments/assets/795dbda1-5d4d-4cd5-b304-8a8f7d10e555" />
 
 ### 4. Papers
 
-<img width="1907" height="917" alt="image" src="https://github.com/user-attachments/assets/41b0900b-371a-42ef-b0dd-2523899ef299" />
+<img width="1545" height="837" alt="image" src="https://github.com/user-attachments/assets/fd948e80-0c73-4268-b6bd-9723cec0fa3a" />
+
 
 ### 5. Paper Sample
 
-<img width="1917" height="961" alt="image" src="https://github.com/user-attachments/assets/8826a4f0-531a-470d-8e8d-10491ac66b6c" />
+<img width="1536" height="861" alt="image" src="https://github.com/user-attachments/assets/eb6d67a3-0e53-407a-85b3-eb222fbf5ab0" />
+
 
 ### 6. Notes
+<img width="1530" height="796" alt="image" src="https://github.com/user-attachments/assets/43f0f1c0-b61e-40a6-9af3-40e8c2cf6df0" />
 
-<img width="1917" height="860" alt="image" src="https://github.com/user-attachments/assets/f9b6ebac-7f11-4451-8e48-c6bc3ee31bf6" />
 
 ### 7. Videos
 
-<img width="1917" height="877" alt="image" src="https://github.com/user-attachments/assets/e6f2b329-79fd-4517-886a-b89e2751d722" />
+<img width="1540" height="800" alt="image" src="https://github.com/user-attachments/assets/f399aefc-65ab-4b5f-adea-8acb0ab72c73" />
+
 
 ## Palette
 
