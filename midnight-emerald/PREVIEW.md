@@ -9,8 +9,11 @@ Deep green-black surfaces with a jewel-toned emerald primary and a mint accent t
 ## Preview
 
 ### 1. Dashboard
+<img width="776" height="346" alt="image" src="https://github.com/user-attachments/assets/43ba1507-832b-457e-9f9d-2ce7010b0938" />
+
 
 ### 2. Explore
+
 
 ### 3. Modules
 
