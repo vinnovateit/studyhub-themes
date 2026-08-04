@@ -9,18 +9,26 @@ Barely-tinted mint-white surfaces with a deep teal primary and a bright turquois
 ## Preview
 
 ### 1. Dashboard
+<img width="1907" height="867" alt="image" src="https://github.com/user-attachments/assets/8fc4d621-0f7f-4d02-a2db-3ab6059eb46b" />
+
 
 ### 2. Explore
+<img width="1882" height="892" alt="image" src="https://github.com/user-attachments/assets/e8c38c1f-cb6c-4ea1-b9ef-3320a2bb7945" />
 
 ### 3. Modules
+<img width="1911" height="866" alt="image" src="https://github.com/user-attachments/assets/f14f753a-8f01-46db-a19c-5e1df85f6eff" />
 
 ### 4. Papers
+<img width="1905" height="877" alt="image" src="https://github.com/user-attachments/assets/c097aa39-46a2-43f8-8736-fd96d65ec397" />
 
 ### 5. Paper Sample
+<img width="1545" height="896" alt="image" src="https://github.com/user-attachments/assets/3bef5758-f8b6-48e1-927e-c981e6ff5427" />
 
 ### 6. Notes
+<img width="1892" height="807" alt="image" src="https://github.com/user-attachments/assets/db23d749-cbee-43ea-aa3d-10627d0d6723" />
 
 ### 7. Videos
+<img width="1886" height="842" alt="image" src="https://github.com/user-attachments/assets/977e46d9-b5f6-4646-9fb7-a98d323b0197" />
 
 ## Palette
 
