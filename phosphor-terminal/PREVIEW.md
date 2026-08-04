@@ -9,18 +9,25 @@ Green phosphor on near-black, the other half of the vintage-terminal pair with A
 ## Preview
 
 ### 1. Dashboard
+<img width="1905" height="872" alt="image" src="https://github.com/user-attachments/assets/9f0829b8-62b7-4303-8e37-8c54e86841d2" />
 
 ### 2. Explore
+<img width="1897" height="885" alt="image" src="https://github.com/user-attachments/assets/92a9beb8-4d1e-4a90-9e49-44283a113654" />
 
 ### 3. Modules
+<img width="1912" height="887" alt="image" src="https://github.com/user-attachments/assets/0d68f072-2968-41f3-94b5-32a24a66ea41" />
 
 ### 4. Papers
+<img width="1897" height="880" alt="image" src="https://github.com/user-attachments/assets/ec4feedb-4850-43e6-9e7c-96d12a640c94" />
 
 ### 5. Paper Sample
+<img width="1917" height="907" alt="image" src="https://github.com/user-attachments/assets/384b4216-167a-440e-839c-4ff532cccf76" />
 
 ### 6. Notes
+<img width="1897" height="857" alt="image" src="https://github.com/user-attachments/assets/6606046b-c14b-4192-970b-05a17e0fe524" />
 
 ### 7. Videos
+<img width="1917" height="827" alt="image" src="https://github.com/user-attachments/assets/f0fcf9e2-e878-4e9c-9d0c-bdeb5088d9c6" />
 
 ## Palette
 
