@@ -18,6 +18,7 @@ Deep green-black surfaces with a jewel-toned emerald primary and a mint accent t
 
 ### 3. Modules
 
+<img width="776" height="374" alt="image" src="https://github.com/user-attachments/assets/eaf77d13-3b4c-4ae4-951f-3d8a3a455a4c" />
 
 
 ### 4. Papers
