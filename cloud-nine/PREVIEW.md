@@ -9,18 +9,32 @@ Muted slate-plum surfaces carrying exactly one loud colour: a lavender that appe
 ## Preview
 
 ### 1. Dashboard
+<img width="1245" height="757" alt="image" src="https://github.com/user-attachments/assets/338852db-11ca-49a4-93e9-a8735e39b563" />
+
 
 ### 2. Explore
+<img width="1239" height="754" alt="image" src="https://github.com/user-attachments/assets/405b3e5c-1003-458f-9ca7-87307b4f5121" />
+
 
 ### 3. Modules
+<img width="1238" height="806" alt="image" src="https://github.com/user-attachments/assets/6d77f6c5-e6ef-448d-86cd-90eb830c8989" />
+
 
 ### 4. Papers
+<img width="1233" height="798" alt="image" src="https://github.com/user-attachments/assets/9289000a-bf12-475e-a116-7ca85f06b64d" />
+
 
 ### 5. Paper Sample
+<img width="1235" height="800" alt="image" src="https://github.com/user-attachments/assets/fc595bb5-8547-4175-94de-e8941b667564" />
+
 
 ### 6. Notes
+<img width="1241" height="801" alt="image" src="https://github.com/user-attachments/assets/90318597-f475-4150-b3ea-3dc01cb77a85" />
+
 
 ### 7. Videos
+<img width="1243" height="788" alt="image" src="https://github.com/user-attachments/assets/07caedf5-5408-4355-ad2c-31afcb5205d3" />
+
 
 ## Palette
 
