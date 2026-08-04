@@ -9,18 +9,32 @@ Full-strength lemon as the page colour, olive-dark type, and gold accents. Archi
 ## Preview
 
 ### 1. Dashboard
+<img width="791" height="349" alt="image" src="https://github.com/user-attachments/assets/34ecfa1b-bce7-4d1d-b24c-aaafc30b36c7" />
+
 
 ### 2. Explore
+<img width="775" height="387" alt="image" src="https://github.com/user-attachments/assets/2baef1fa-4882-42c5-a696-417ffa71f1ce" />
+
 
 ### 3. Modules
+<img width="794" height="376" alt="image" src="https://github.com/user-attachments/assets/c672fcb5-61a1-4327-a586-9d87f9d4b7c6" />
+
 
 ### 4. Papers
+<img width="770" height="368" alt="image" src="https://github.com/user-attachments/assets/e915d699-d384-48cb-b79e-4fbac9e96b63" />
+
 
 ### 5. Paper Sample
+<img width="788" height="353" alt="image" src="https://github.com/user-attachments/assets/d2ae1752-c9dd-42f7-bb66-bb81de3b78b9" />
+
 
 ### 6. Notes
+<img width="785" height="373" alt="image" src="https://github.com/user-attachments/assets/1d0398b4-ce75-48e7-85f9-e05c6003170d" />
+
 
 ### 7. Videos
+<img width="791" height="374" alt="image" src="https://github.com/user-attachments/assets/10b65e1a-a90c-43da-a132-b6a5b778c3d2" />
+
 
 ## Palette
 
