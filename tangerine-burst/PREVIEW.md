@@ -9,18 +9,25 @@ Creamy warm-white surfaces with a vivid tangerine primary and a softer orange ac
 ## Preview
 
 ### 1. Dashboard
+<img width="1872" height="872" alt="image" src="https://github.com/user-attachments/assets/7212dd2f-9e9b-4c3e-af51-6a0bc21eb9b1" />
 
 ### 2. Explore
+<img width="1882" height="887" alt="image" src="https://github.com/user-attachments/assets/d88fb91a-a9b4-4849-8557-cf67b14cc1c3" />
 
 ### 3. Modules
+<img width="1907" height="832" alt="image" src="https://github.com/user-attachments/assets/b2b9d90d-4775-4ea9-bb27-a6e9f8c8af42" />
 
 ### 4. Papers
+<img width="1900" height="881" alt="image" src="https://github.com/user-attachments/assets/5e60446d-1137-47a0-bc9e-803f599e7aec" />
 
 ### 5. Paper Sample
+<img width="1916" height="940" alt="image" src="https://github.com/user-attachments/assets/06c24862-bfdb-4f04-9070-5c7769d6e6de" />
 
 ### 6. Notes
+<img width="1912" height="882" alt="image" src="https://github.com/user-attachments/assets/84821d20-75c4-4460-af48-53bfa81c5339" />
 
 ### 7. Videos
+<img width="1910" height="882" alt="image" src="https://github.com/user-attachments/assets/828ba3c9-0553-4785-bdfa-e070ddbae3a0" />
 
 ## Palette
 
