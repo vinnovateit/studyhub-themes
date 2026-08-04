@@ -9,26 +9,32 @@ Barely-tinted mint-white surfaces with a deep teal primary and a bright turquois
 ## Preview
 
 ### 1. Dashboard
-<img width="1907" height="867" alt="image" src="https://github.com/user-attachments/assets/8fc4d621-0f7f-4d02-a2db-3ab6059eb46b" />
+
+<img width="1527" height="785" alt="image" src="https://github.com/user-attachments/assets/669899b7-ed08-4419-9eaf-6a0a0d4d5373" />
 
 
 ### 2. Explore
-<img width="1882" height="892" alt="image" src="https://github.com/user-attachments/assets/e8c38c1f-cb6c-4ea1-b9ef-3320a2bb7945" />
+<img width="1546" height="787" alt="image" src="https://github.com/user-attachments/assets/4c6c4903-2129-4703-ba5f-8a7b2b58345c" />
+
 
 ### 3. Modules
-<img width="1911" height="866" alt="image" src="https://github.com/user-attachments/assets/f14f753a-8f01-46db-a19c-5e1df85f6eff" />
+<img width="1562" height="816" alt="image" src="https://github.com/user-attachments/assets/b0e490f7-2aa7-481a-a900-d0d0fe067afd" />
+
 
 ### 4. Papers
-<img width="1905" height="877" alt="image" src="https://github.com/user-attachments/assets/c097aa39-46a2-43f8-8736-fd96d65ec397" />
+
+<img width="1547" height="765" alt="image" src="https://github.com/user-attachments/assets/03afe5f4-05db-4678-aeff-d20874e5669b" />
 
 ### 5. Paper Sample
-<img width="1545" height="896" alt="image" src="https://github.com/user-attachments/assets/3bef5758-f8b6-48e1-927e-c981e6ff5427" />
+<img width="1557" height="747" alt="image" src="https://github.com/user-attachments/assets/781e2378-78df-4f34-aed4-e1d3889bc886" />
+
 
 ### 6. Notes
-<img width="1892" height="807" alt="image" src="https://github.com/user-attachments/assets/db23d749-cbee-43ea-aa3d-10627d0d6723" />
+<img width="1557" height="787" alt="image" src="https://github.com/user-attachments/assets/a974e69b-403b-4312-9224-28007fba060d" />
+
 
 ### 7. Videos
-<img width="1886" height="842" alt="image" src="https://github.com/user-attachments/assets/977e46d9-b5f6-4646-9fb7-a98d323b0197" />
+<img width="1552" height="747" alt="image" src="https://github.com/user-attachments/assets/81b28bd8-e5a3-4d89-ae5d-0a3c0bf26465" />
 
 ## Palette
 
