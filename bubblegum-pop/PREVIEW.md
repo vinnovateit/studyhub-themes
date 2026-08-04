@@ -9,18 +9,32 @@ Near-white blush pages with white cards and one very loud pink doing all the wor
 ## Preview
 
 ### 1. Dashboard
+<img width="1498" height="761" alt="image" src="https://github.com/user-attachments/assets/bdab6c1c-ce43-4d09-9a9f-2356ee987d2d" />
+
 
 ### 2. Explore
+<img width="1495" height="753" alt="image" src="https://github.com/user-attachments/assets/888f1a06-30d2-4c2c-b067-fc8b2a9b04d7" />
+
 
 ### 3. Modules
+<img width="1237" height="808" alt="image" src="https://github.com/user-attachments/assets/81384b08-bdc2-4fda-9e3b-314c08acf846" />
+
 
 ### 4. Papers
+<img width="1236" height="797" alt="image" src="https://github.com/user-attachments/assets/15ab9921-5780-40bd-9c53-2ac883a79f81" />
+
 
 ### 5. Paper Sample
+<img width="1234" height="799" alt="image" src="https://github.com/user-attachments/assets/81c17cbb-c6de-41d4-8583-ee574ce85ba6" />
+
 
 ### 6. Notes
+<img width="1236" height="801" alt="image" src="https://github.com/user-attachments/assets/6cd3768d-49c6-4714-919e-c00447b8eea8" />
+
 
 ### 7. Videos
+<img width="1234" height="797" alt="image" src="https://github.com/user-attachments/assets/1647ff6c-1da0-4f4a-b038-528cb927f15d" />
+
 
 ## Palette
 
